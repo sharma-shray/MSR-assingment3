@@ -1,0 +1,9 @@
+The Whole process of adressing the threat was done in a flow as below:
+1. Understanding different types of testing
+2. Grouping the manual test cases into different types of testing techniques.
+3. Grouping the automated test cases(generated as a part of assingment2) into different types of testing techniques.
+4. Comparing the testing types of automated and manual test cases.
+5. Presenting the growth in the field of test automation by searching how the new tool works differently than its previous ancestors.
+
+Experiment overview:
+As assingment two was already covering the experiment the comparison between test case types clearly establishes the fact that manual testing is still needed and can not be replaced by aumation testing.

@@ -1,0 +1,10 @@
+The Whole process of reproduction was done in a flow as below:
+1. Understanding what the paper wnats to achieve
+2. Looking for automation tools used in the reference paper.
+3. Looking for the source code.
+4. Checking compatibility of tools and code.
+5. Reproducing the paper.
+
+As the paper was already a reproduction of an older paper it was using the same old automation unit test tools to compare the growth of automation testing. 
+But as those tools were not a very good representative of the current technology a research for new automation testing techniques was done.
+A testing tool Using AI to generate Unit test cases was choosen to represent surrecnt state of unit test automation.
