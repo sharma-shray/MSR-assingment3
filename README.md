@@ -70,7 +70,9 @@ After Grouping the test cases generated automated and manually (Page two of obse
 
 
 Comparison between Randoop, evosuite and Diffblue(cover):
-The table in markdown has been taken from the official website of diffblue(cover) [3].
+The table  has been taken from the official website of diffblue(cover) [3].
+![Diffblue comparison](https://d1qmdf3vop2l07.cloudfront.net/strong-whale.cloudvent.net/hash-store/f856bc1ea6d92c751ac7d8287e042851.png)
+
 Comparing the results achieved by our experiment and the results given on the website we can conclude that our experiment results correspond to the behavior which has been reported on the official website.
 Which is : “AI based tools not only create a higher number of test cases but also a higher quality of test cases which have a better coverage,
 and Automated testing might have a good coverage but to acheive a perfect test structure  manual and automation testing both are needed as the functional and white box tests can not be performed with the automation tools."
