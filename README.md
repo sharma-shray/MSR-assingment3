@@ -1,4 +1,4 @@
-Threat : The Paper uses tools like Junit factory, Mutation Score and Line coverage, to generate the automated Unit test cases.
+Threat : The Paper uses tools like Junit factory,Evosuite and Randoop to generate the automated Unit test cases.
 These tools were selected because the base paper of the paper under discussion was also using the same tools. 
 Which is not appropriate representation of technological advancements in the same sector rather technological advancement of the tool.
 
@@ -6,14 +6,14 @@ Which is not appropriate representation of technological advancements in the sam
 Traces:
 Construct validity 
 The paper is a reconstruction of its underlying paper and compares the old tools with their newer version for checking the growth , which means that the advancements of tools are a measure of comparision. 
-Where as the actual growth of the field is not measured by the growth of the tools but rather the improvement in the technology.
+Where as the actual growth of the field is not measured by the growth of the tools but rather the improvement in the technology for those particular tools.
 
 
 Theory:
-As The Base paper is comparing the tools growth to measure the groeth in the field of automation unit testing.It is actually a measure of growth of the tools and not the growth of the field.
+As The Base paper is comparing the tools growth to measure the growth in the field of automation unit testing.It is actually a measure of growth of the tools and not the growth of the field.
 This Threat has been adressed by me in my reproduction effort by taking into consideration a new tool which is AI based "Diffblue". 
 The tool was compatible with the code and was able to generate Unit test cases and with the increased number of test cases we could see that there has been some improvement in the area.
-To further analyse this we now group the test cases under their repective categorise to see if the automation tools have actually surpassed the manual test case generation.
+To further analyse this we now group the test cases generated (both manually and automated) under their repective categorise to see if the automation tools have actually surpassed the manual test case generation.
 Furthermore a comparison between how the tools approch have changed over time has been compared to see the devlopment in the field.
 
 
@@ -23,12 +23,12 @@ Due to time limitations i have restricted the comparision to 3 classes which wou
 
 
 Implimentation:
-The comparision between the types of test cases generated gives us a clearer overview of exactly which kind of testing can be acheived using automated test.As we already know that the coverage has improved.
-From our experiment, the next step is to analyze what changes have been made in the field , to get an overview of how the tools have changed.
+The comparision between the types of test cases generated gives us a clearer overview of exactly which kind of testing can be acheived using automated test.As we already know from the assingment 2 that the coverage has improved.
+From our experiment, the next step is to analyze what changes have been made in the field , to get an overview of how the tools have changed.Which is then compared to the official metrice on the website of the tool itself to eastablish a conclusion.
 
 
 Results:
-We see that the field od test Automation has evolved to incorporate various other fields like:
+We see that the field of test Automation has evolved to incorporate various other fields like:
 1. AI
 2. Machine learning
 3. Deep learning
